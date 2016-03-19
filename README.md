@@ -34,3 +34,6 @@ Here is an example: Let’s say a company has 300 pure threshold. If this compan
   3. Drug Quality. If a company accumulated make more than 100 million dollars, they will choose to invest 100 million dollars to upgrade their drug quality. Their capital will decrease 100 million dollars but their drug quality will increase by 1 (There is not upper bound for technology). If a company accumulated lose more than 100 million dollars, their can not maintain their drug quality, so it will decrease by one. 
   
 Each change in cognitive bias or drug quality will initialize the accumulated wealth.
+
+Here is a example complex version result
+![Result graph](https://github.com/markguo40/GMO-Gametheory-Simulation/blob/master/Game%20theory/Complex%20version%20after%20100%20periods.png )
